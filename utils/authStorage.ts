@@ -1,4 +1,5 @@
 // utils/authStorage.ts
+import { UserRole } from "@/types/auth";
 import * as SecureStore from "expo-secure-store";
 
 const SECURE_KEYS = {

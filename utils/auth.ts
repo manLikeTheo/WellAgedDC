@@ -1,3 +1,4 @@
+import { UserRole } from "@/types/auth";
 import { AuthStorage } from "./authStorage";
 
 export const AuthService = {
